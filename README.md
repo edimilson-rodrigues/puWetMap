@@ -5,7 +5,7 @@ This repository contains all the Google Earth Engine codes used to classify and 
 All codes used are available in https://earthengine.googlesource.com/users/ee-ers/puWetMap 
 
 # Image processing
-The codes within imgProcesing presents the procedures to obtain Landsat mosaics for the study area. The main code is [mosaicExportsByRegion.js](imgProcessing/mosaicExportsByRegion.js)
+The codes within imgProcesing presents the procedures to obtain Landsat mosaics for the study area. The main code is [mosaicExportByRegion.js](imgProcessing/mosaicExportByRegion.js)
 
 # Classification
 The codes within classification presents the 
