@@ -1,6 +1,13 @@
 # puWetMap
 This repository contains all the Google Earth Engine codes used to classify and analyse peri-urban wetlands within Mogi-Guaçu, Pardo, and Tietê-Jacaré River Water Resources Management Unities.
 
+## Citation
+If you use this codes or data in your research, please cite it using the following DOI:
+[![DOI](https://zenodo.org/badge/912974541.svg)](https://doi.org/10.5281/zenodo.17644783)
+
+**Example Citation:**
+> Santos JR, E. R. (2024). *puWetMap* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.17644784 
+
 # Google Earth Engine repository
 All codes used are available in https://earthengine.googlesource.com/users/ee-ers/puWetMap 
 
